@@ -1,0 +1,57 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.container {
+  padding-top: 1.5rem;
+}
+.bg-verde {
+  background-color: #28a745;
+}
+
+.card-title {
+  font-size: 1rem;
+}
+
+.card-text {
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+.footer {
+  padding-top: 2rem;
+  background-color: #28a745;
+  color: white;
+  padding-left: 1.25rem;
+  padding-right: 0.5rem;
+  text-align: center;
+}
+.discount-text :nth-child(2) {
+  color: #28a745;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.discount-text :first-child {
+  color: grey;
+}
+
+.text-center :last-child {
+  color: gray;
+  font-weight: 300;
+  padding: 1rem 2rem 0 2rem;
+}
+
+.footer-brand {
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
